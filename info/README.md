@@ -1,24 +1,26 @@
-# rrg
-rrg reretry
-<heading 1>
+<!-- heading 1-->
  # Kentucky's Red River Gorge
 
 This space will describe the USFS National Geological Area.
- <First paragraph>
+ <!--First paragraph-->
  This brief cite will inform you about Red River Gorge, located in Kentucky.
- <List o facts>
+ <!--List o facts-->
  ## Some facts about the gorge
- 1 It houses over 200 different species of birds, reptiles, amphibians, and mammals.
- 2 It is located within Daniel Boone National Forest 
- 3 It has over 150 sandstone arches 
+ 1. It houses over 200 different species of birds, reptiles, amphibians, and mammals.
 
- <Map link>
+ 2. It is located within Daniel Boone National Forest 
 
- Here is a link to a map of the area: https://www.mobilemaplets.com/showplace/2055
+ 3. It has over 150 sandstone arches 
 
-https://www.southeastmountainguides.com/wp-content/uploads/2018/06/copperas-1-1200x900.jpg
+ <!--Map link-->
 
-<sources>
-###Sources
-http://www.redrivergorge.com/
-https://www.mobilemaplets.com/showplace/2055
+ [Here is a link to a map of the area:](https://www.mobilemaplets.com/showplace/2055)
+
+![Awesome Rock Formations](https://d368g9lw5ileu7.cloudfront.net/races/race48212-logo.bzlyPU.png)
+
+<!--sources-->
+ ### Sources
+
+1. http://www.redrivergorge.com/
+
+2. https://www.mobilemaplets.com/showplace/2055
