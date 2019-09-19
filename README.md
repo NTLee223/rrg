@@ -16,9 +16,11 @@ This space will describe the USFS National Geological Area.
 
  [Here is a link to a map of the area:](https://www.mobilemaplets.com/showplace/2055)
 
-![Awesome Rock Formations](https://www.cliffviewresort.com/wp-content/uploads/bb-plugin/cache/Suzannas-Arch-at-Cliffview-Resort-in-Red-River-Gorge-KY-landscape.png)
+![Awesome Rock Formations](https://d368g9lw5ileu7.cloudfront.net/races/race48212-logo.bzlyPU.png)
 
-<sources>
+<!--sources-->
  ### Sources
-1 http://www.redrivergorge.com/
-2 https://www.mobilemaplets.com/showplace/2055
+
+1. http://www.redrivergorge.com/
+
+2. https://www.mobilemaplets.com/showplace/2055
